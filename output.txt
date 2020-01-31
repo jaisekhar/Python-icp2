@@ -1,0 +1,5 @@
+jai 2
+sekhar 1
+koya 2
+india 1
+umkc 2
